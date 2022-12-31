@@ -3,6 +3,8 @@ This repository contains the dataset, code scripts and the article that investig
 
 The dataset can be accessed from the following Google Drive link: https://drive.google.com/drive/folders/1dGCVOSx0DMfsm7YCPa16IAhpMGvBuMMY?usp=share_link
 
+The model weights can be found here: https://drive.google.com/drive/folders/1kVj6-693NwOF8XVdCIgvtGBppmRIMBwg?usp=share_link
+
 Abstract:
 
 Minimally Invasive Surgery (MIS) is the operation
