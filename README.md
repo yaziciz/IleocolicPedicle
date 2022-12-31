@@ -25,7 +25,6 @@ that the trained models of U-Net achieved mIoU ranging between
 0.948 - 0.957 and 0.748 - 0.957 mIoU for Attention U-Net.
 We further analyzed the inference time of the models and the
 implemented backbones. We observed that the inference time
-was ranging between 100 ms - 760 ms for U-Net, and 100 ms
-- 1600 ms for Attention U-Net. The achieved results indicate a
+was ranging between 100 ms - 760 ms for U-Net, and 100 ms - 1600 ms for Attention U-Net. The achieved results indicate a
 promising real-time assistive system for surgeons to perform the
 operations.
